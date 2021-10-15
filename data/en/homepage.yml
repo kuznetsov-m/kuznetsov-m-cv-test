@@ -4,18 +4,11 @@ hero:
 
   # animated text loop
   occupations:
-    - "Open mind"
-    - "Open source"
-    - "License with freedom"
-    - "Decentralization"
-    - "Human WEB3"
-    - "Sustainable innovations"
-    - "Impact investments"
-    - "Cooperation"
-    - "Author's code"
-    - "Clear code"
-    - "Transparent finance"
-
+    - "C++ Developer"
+    - "Python Developer"
+    - "Backend Developer"
+    - "DeFi Developer"
+    - "Hardware Developer"
 
 
   # slider background image loop
