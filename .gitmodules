@@ -1,4 +1,0 @@
-[submodule "themes/somrat"]
-	path = themes/somrat
-	url = https://github.com/fincubator/somrat.git
-	branch = master
