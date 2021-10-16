@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://kuznetsov-m.github.io/kuznetsov-m-cv-test"
 title = "Somrat | Hugo Portfolio Template"
 theme = "somrat"
 # post pagination
