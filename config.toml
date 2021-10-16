@@ -7,7 +7,7 @@ paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disable language
-disableLanguages = [Fr] # disable language from here
+disableLanguages = [fr-fr] # disable language from here
 # google analutics
 googleAnalytics = "" # example : UA-123-45
 
@@ -87,11 +87,11 @@ link = "https://www.instagram.com/somratpro"
 
 [[params.social]]
 icon = "fab fa-github"
-link = "https://github.com/somratpro"
+link = "https://github.com/kuznetsov-m"
 
-[[params.social]]
-icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/somratpro"
+#[[params.social]]
+#icon = "fab fa-linkedin"
+#link = "https://www.linkedin.com/in/somratpro"
 
 
 ################################### English language #####################################
