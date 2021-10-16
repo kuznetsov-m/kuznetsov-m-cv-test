@@ -15,6 +15,7 @@ slider_images:
 - "images/slider/slider-1.jpg"
 - "images/slider/slider-2.jpg"
 - "images/slider/slider-3.jpg"
+- "images/slider/slider-4.jpg"
 
 # button
 button:
