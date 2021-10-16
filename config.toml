@@ -1,13 +1,13 @@
 ######################## default configuration ####################
 baseURL = "https://kuznetsov-m.github.io/kuznetsov-m-cv-test"
-title = "Somrat | Hugo Portfolio Template"
+title = "Kuznetsov Mikhail"
 theme = "somrat"
 # post pagination
 paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disable language
-disableLanguages = [fr] # disable language from here
+disableLanguages = [Fr] # disable language from here
 # google analutics
 googleAnalytics = "" # example : UA-123-45
 
