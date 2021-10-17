@@ -1,6 +1,6 @@
 ---
 title : "SAY HELLO!"
-bg_image: "images/backgrounds/contact-us-bg.jpg"
+bg_image: ""
 form_action: "#" # works with https://formspree
 name: "Name"
 email: "Email"
