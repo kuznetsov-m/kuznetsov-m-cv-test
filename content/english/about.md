@@ -1,11 +1,6 @@
 ---
 title : "KNOW MORE <br> ABOUT ME"
 image : "images/backgrounds/portrait.jpg"
-# button
-button:
-  enable : true
-  label : "DOWNLOAD MY CV"
-  link : "static/cv_ru.pdf"
 
 ########################### Experience ##############################
 experience:
