@@ -5,24 +5,24 @@ image : "images/backgrounds/portrait.jpg"
 ########################### Experience ##############################
 experience:
   enable : true
-  title : "ОПЫТ РАБОТЫ"
+  title : "ОПЫТ"
   experience_list:
     # experience item loop
     - name : "Playrix"
-      company : "playrix.com/en"
-      duration : "06.2021"
+      company : "playrix.com"
+      duration : "2021"
       content : "Техническая команда проекта Wildscapes. Технический разработчик."
       
     # experience item loop
     - name : "Инжиниринговый центр МФТИ"
-      company : "cet-mipt.ru/en"
-      duration : "01.2019-03.2021"
+      company : "cet-mipt.ru"
+      duration : "2019-2021"
       content : "Текст."
       
     # experience item loop
     - name : "НПП Радиосвязь"
       company : "krtz.su"
-      duration : "04.2015-12.2018"
+      duration : "2015-2018"
       content : "Разработчик ПО для спутниковых станций связи. Работа с сетевыми протоколами TCP/IP."
 
 

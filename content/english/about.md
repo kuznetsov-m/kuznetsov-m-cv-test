@@ -9,20 +9,20 @@ experience:
   experience_list:
     # experience item loop
     - name : "Playrix"
-      company : "playrix.com/en"
-      duration : "06/2021"
+      company : "playrix.com"
+      duration : "2021"
       content : "Wildscapes technical team. Technical developer."
       
     # experience item loop
     - name : "Center for engineering and technology of MIPT"
-      company : "cet-mipt.ru/en"
-      duration : "01/2019-03/2021"
+      company : "cet-mipt.ru"
+      duration : "2019-2021"
       content : "Team Leader of the developing team. Professional desktop application for the design and optimization of gas and oil fields."
       
     # experience item loop
     - name : "NPP Radiosvyaz"
       company : "krtz.su"
-      duration : "04/2015-12/2018"
+      duration : "2015-2018"
       content : "Software developer. Satellite communication station software."
 
 
