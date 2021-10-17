@@ -37,4 +37,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-Professional desctop/backend developer. I love code.
+Professional desktop/backend developer. I love code.
