@@ -25,10 +25,10 @@ experience:
       content : "Текст."
       
     # experience item loop
-    - name : "NPP Radiosvyaz"
+    - name : "НПП Радиосвязь"
       company : "krtz.su"
       duration : "04.2015-12.2018"
-      content : "Software developer. Satellite communication station software."
+      content : "Разработчик ПО для спутниковых станций связи. Работа с сетевыми протоколами TCP/IP."
 
 
 # custom style
