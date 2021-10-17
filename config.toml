@@ -7,7 +7,7 @@ paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disable language
-disableLanguages = ["fr"] # disable language from here
+disableLanguages = [] # disable language from here
 # google analutics
 googleAnalytics = "" # example : UA-123-45
 
@@ -158,51 +158,33 @@ weight = 6
 #weight = 7
 
 
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+################################### Russian language #####################################
+[Languages.ru]
+languageName = "Ru"
+languageCode = "ru-ru"
+contentDir = "content/russian"
 weight = 2
-home = "Accueil"
+home = "Стартовая"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright &copy; 2021 [Кузнецов Михаил](https://github.com/kuznetsov-m)"
 
 
-################# english navigation ##################
+################# russian navigation ##################
 
 # main menu
-[[Languages.fr.menu.main]]
-name = "Home"
+[[Languages.ru.menu.main]]
+name = "Начало"
 url = "/"
 weight = 1
 
-[[Languages.fr.menu.main]]
-name = "About me"
+[[Languages.ru.menu.main]]
+name = "Обо мне"
 pre = "#"
 url = "about"
 weight = 2
 
-[[Languages.fr.menu.main]]
-name = "Service"
-pre = "#"
-url = "service"
-weight = 3
-
-[[Languages.fr.menu.main]]
-name = "Portfolio"
-pre = "#"
-url = "portfolio"
-weight = 4
-
-[[Languages.fr.menu.main]]
-name = "Testimonial"
-pre = "#"
-url = "testimonial"
-weight = 5
-
-[[Languages.fr.menu.main]]
-name = "Contact"
+[[Languages.ru.menu.main]]
+name = "Контакты"
 pre = "#"
 url = "contact"
 weight = 6
