@@ -1,11 +1,6 @@
 ---
 title : "КРАТКО ОБО МНЕ"
 image : "images/backgrounds/portrait.jpg"
-# button
-button:
-  enable : true
-  label : "DOWNLOAD MY CV"
-  link : "static/cv_ru.pdf"
 
 ########################### Experience ##############################
 experience:
