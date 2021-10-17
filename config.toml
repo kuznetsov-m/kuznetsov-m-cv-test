@@ -128,11 +128,11 @@ pre = "#"
 url = "about"
 weight = 2
 
-[[Languages.en.menu.main]]
-name = "Service"
-pre = "#"
-url = "service"
-weight = 3
+#[[Languages.en.menu.main]]
+#name = "Service"
+#pre = "#"
+#url = "service"
+#weight = 3
 
 #[[Languages.en.menu.main]]
 #name = "Portfolio"
