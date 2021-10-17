@@ -5,7 +5,7 @@ image : "images/backgrounds/portrait.jpg"
 button:
   enable : true
   label : "DOWNLOAD MY CV"
-  link : "#"
+  link : "static/cv_ru.pdf"
 
 ########################### Experience ##############################
 experience:
@@ -14,19 +14,19 @@ experience:
   experience_list:
     # experience item loop
     - name : "Playrix"
-      company : "playrix.com"
+      company : "playrix.com/en"
       duration : "06/2021"
       content : "Wildscapes technical team. Technical developer."
       
     # experience item loop
     - name : "Center for engineering and technology of MIPT"
-      company : "www.cet-mipt.ru/en"
+      company : "cet-mipt.ru/en"
       duration : "01/2019-03/2021"
       content : "Team Leader of the developing team. Professional desktop application for the design and optimization of gas and oil fields."
       
     # experience item loop
     - name : "NPP Radiosvyaz"
-      company : "www.krtz.su"
+      company : "krtz.su"
       duration : "04/2015-12/2018"
       content : "Software developer. Satellite communication station software."
 
