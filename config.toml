@@ -174,17 +174,17 @@ copyright = "Copyright &copy; 2021 [Кузнецов Михаил](https://githu
 # main menu
 [[Languages.ru.menu.main]]
 name = "Начало"
-url = "ru"
+url = "/ru"
 weight = 1
 
 [[Languages.ru.menu.main]]
 name = "Обо мне"
-pre = "#"
-url = "ru/about"
+pre = ""
+url = "/ru/#about"
 weight = 2
 
 [[Languages.ru.menu.main]]
 name = "Контакты"
-pre = "#"
-url = "ru/contact"
+pre = ""
+url = "/ru/#contact"
 weight = 6
