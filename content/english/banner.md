@@ -6,9 +6,13 @@ last_name : "Kuznetsov"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "C++ Developer"
+- "Python Developer"
+- "Backend Developer"
+- "Hackathon Hacker"
+- "Blockchain enthusiast"
+- "DIY fun"
+- "Hi there! 😉"
 
 # slider background image loop
 slider_images:
