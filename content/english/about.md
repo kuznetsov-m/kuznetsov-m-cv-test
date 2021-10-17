@@ -30,27 +30,6 @@ experience:
       duration : "04/2015-12/2018"
       content : "Software developer. Satellite communication station software."
 
-############################### Skill #################################
-skill:
-  enable : true
-  title : "SKILL"
-  skill_list:
-    # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
-      
-    # skill item loop
-    - name : "Graphic Design"
-      percentage : "85%"
-      
-    # skill item loop
-    - name : "Database Management"
-      percentage : "90%"
-      
-    # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
-
 
 # custom style
 custom_class: "" 
@@ -58,4 +37,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+Professional desctop/backend developer. I love code.
