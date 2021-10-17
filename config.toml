@@ -102,6 +102,7 @@ link = "https://www.instagram.com/xprogramist"
 #icon = "fab fa-linkedin"
 #link = "https://www.linkedin.com/in/"
 
+
 ################################### English language #####################################
 [Languages.en]
 languageName = "En"
@@ -110,7 +111,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright &copy; 2021 [Kuznetsov Mikhail](https://github.com/kuznetsov-m)"
 
 
 ################# english navigation ##################
