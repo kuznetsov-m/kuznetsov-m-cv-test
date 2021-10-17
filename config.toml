@@ -64,8 +64,8 @@ logo_light = "images/logo.png"
 logo_dark = "images/logo-dark.png"
 logo_width = "150px"
 # Meta data
-description = "This is meta description"
-author = "somrat"
+description = "Kuznetsov Mikhail personal page"
+author = "Kuznetsov Mikhail"
 
 # Preloader
 [params.preloader]
@@ -73,17 +73,17 @@ enable = true
 preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
-[[params.social]]
-icon = "fab fa-facebook-f"
-link = "https://www.facebook.com/somratpro"
+#[[params.social]]
+#icon = "fab fa-facebook-f"
+#link = "https://www.facebook.com/"
 
-[[params.social]]
-icon = "fab fa-twitter"
-link = "https://twitter.com/somratpro"
+#[[params.social]]
+#icon = "fab fa-twitter"
+#link = "https://twitter.com/"
 
 [[params.social]]
 icon = "fab fa-instagram"
-link = "https://www.instagram.com/somratpro"
+link = "https://www.instagram.com/xprogramist"
 
 [[params.social]]
 icon = "fab fa-github"
@@ -91,7 +91,11 @@ link = "https://github.com/kuznetsov-m"
 
 #[[params.social]]
 #icon = "fab fa-linkedin"
-#link = "https://www.linkedin.com/in/somratpro"
+#link = "https://www.linkedin.com/in/"
+
+[[params.social]]
+icon = "fab fa-telegram"
+link = "https://github.com/kuznetsov1024"
 
 
 ################################### English language #####################################
