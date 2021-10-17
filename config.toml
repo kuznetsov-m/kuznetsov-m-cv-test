@@ -179,12 +179,12 @@ weight = 1
 
 [[Languages.ru.menu.main]]
 name = "Обо мне"
-pre = "#"
-url = "ru/about"
+pre = "/ru#"
+url = "about"
 weight = 2
 
 [[Languages.ru.menu.main]]
 name = "Контакты"
-pre = "#"
-url = "ru/contact"
+pre = "/ru#"
+url = "contact"
 weight = 6
