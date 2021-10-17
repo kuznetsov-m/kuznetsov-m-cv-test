@@ -73,6 +73,23 @@ enable = true
 preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
+
+[[params.social]]
+icon = "fab fa-github"
+link = "https://github.com/kuznetsov-m"
+
+[[params.social]]
+icon = "fab fa-stack-overflow"
+link = "https://stackoverflow.com/users/10504918/mike"
+
+[[params.social]]
+icon = "fab fa-telegram"
+link = "https://t.me/kuznetsov1024"
+
+[[params.social]]
+icon = "fab fa-instagram"
+link = "https://www.instagram.com/xprogramist"
+
 #[[params.social]]
 #icon = "fab fa-facebook-f"
 #link = "https://www.facebook.com/"
@@ -81,22 +98,9 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 #icon = "fab fa-twitter"
 #link = "https://twitter.com/"
 
-[[params.social]]
-icon = "fab fa-instagram"
-link = "https://www.instagram.com/xprogramist"
-
-[[params.social]]
-icon = "fab fa-github"
-link = "https://github.com/kuznetsov-m"
-
 #[[params.social]]
 #icon = "fab fa-linkedin"
 #link = "https://www.linkedin.com/in/"
-
-[[params.social]]
-icon = "fab fa-telegram"
-link = "https://t.me/kuznetsov1024"
-
 
 ################################### English language #####################################
 [Languages.en]
