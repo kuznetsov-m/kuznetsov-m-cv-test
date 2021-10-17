@@ -13,22 +13,22 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "Playrix"
+      company : "playrix.com"
+      duration : "06/2021"
+      content : "Wildscapes technical team. Technical developer."
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+    - name : "Center for engineering and technology of MIPT"
+      company : "www.cet-mipt.ru/en"
+      duration : "01/2019-03/2021"
+      content : "Team Leader of the developing team. Professional desktop application for the design and optimization of gas and oil fields."
       
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "NPP Radiosvyaz"
+      company : "www.krtz.su"
+      duration : "04/2015-12/2018"
+      content : "Software developer. Satellite communication station software."
 
 ############################### Skill #################################
 skill:
