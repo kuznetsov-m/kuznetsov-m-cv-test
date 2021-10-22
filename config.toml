@@ -128,17 +128,23 @@ pre = "#"
 url = "about"
 weight = 2
 
+[[Languages.en.menu.main]]
+name = "Hackathons"
+pre = "#"
+url = "hackathons"
+weight = 3
+
 #[[Languages.en.menu.main]]
 #name = "Service"
 #pre = "#"
 #url = "service"
 #weight = 3
-
 #[[Languages.en.menu.main]]
 #name = "Portfolio"
 #pre = "#"
 #url = "portfolio"
 #weight = 4
+
 
 #[[Languages.en.menu.main]]
 #name = "Testimonial"
@@ -182,6 +188,12 @@ name = "Обо мне"
 pre = "/ru#"
 url = "about"
 weight = 2
+
+[[Languages.ru.menu.main]]
+name = "Хакатоны"
+pre = "#"
+url = "hackathons"
+weight = 3
 
 [[Languages.ru.menu.main]]
 name = "Контакты"
