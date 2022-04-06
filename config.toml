@@ -6,8 +6,10 @@ theme = "somrat"
 paginate = "6"
 # post excerpt
 summaryLength = "10"
+# default Content Language
+defaultContentLanguage = "ru"
 # disable language
-disableLanguages = [] # disable language from here
+disableLanguages = [] # disable language from here example: "en", "ru"
 # google analutics
 googleAnalytics = "" # example : UA-123-45
 
