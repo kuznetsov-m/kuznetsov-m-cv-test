@@ -21,7 +21,7 @@ experience:
       duration : "2019-2021"
       content : "Team Leader в команде разработки профессионального desktop-приложения для проектирования и оптимизации нефтегазовых месторождений. <br>
       Проектирование архитектуры, разработка модулей, ораганизация этапа QA, настройка CI и Jira, проведение Demo. <br>
-      C++ 17, Qt5 (multithreading, charts), qmake/cmake, Qwt, SQLite, Python 3 (threads, logging, re). <br>
+      C++ 17, Qt5 (multithreading, charts), qmake/cmake, Qwt, SQLite, Python 3 (threads, logging). <br>
       IDE: Qt Creator, MS VS, MS VS Code <br>
       "
 
@@ -45,12 +45,14 @@ skill:
         - name : "C++14"
         - name : "C++17"
         - name : "Qt5"
+        - name : "gtest"
         - name : "cross-platform dev"
 
     - name : "Python"
       tags_list:
         - name : "Flask"
         - name : "PyQt5"
+        - name : "threads"
         - name : "selenium"
         - name : "numpy"
         - name : "pandas"

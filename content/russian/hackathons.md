@@ -8,13 +8,13 @@ experience:
     - name : "Solana Season Hackathon (online)"
       company : "Трек: DeFi (Восточная Европа). 2 место"
       duration : ""
-      content : "Разработка протокола быстрых займов. <br>
+      content : "[Solaris Protocol](https://solarisprotocol.com). Разработка протокола быстрых займов.<br>
       Разработка dApp для выкупа займов на rust. Реализация бота поиска займов для ликвидации на python ([repo](https://github.com/solaris-protocol/solaris-liquidation-bot)). <br>
       [Публикация с результатами хакатона](https://solana.com/news/announcing-winners-of-the-solana-season-hackathon).
       "
 
     - name : "VirusHack 2020 (Москва)"
-      company : "Трек: В четырёх стенах» (2 место)"
+      company : "Трек: В четырёх стенах (2 место)"
       duration : ""
       content : "Разработка прототипа сервиса психологической помощи. <br>
       Разработал backend сервер flask для работы с сайтом и iOS app

@@ -1,9 +1,11 @@
 ---
-title : "Kuznetsov Mikhail"
+title : "Кузнецов Михаил"
+
 # full screen navigation
-first_name : "Mikhail"
-last_name : "Kuznetsov"
+first_name : "Михаил"
+last_name : "Кузнецов"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
+
 # animated text loop
 occupations:
 - "C++ Developer"
