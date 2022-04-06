@@ -27,7 +27,7 @@ slider_images:
 button:
   enable : true
   label : "ABOUT ME"
-  link : "#about"
+  link : "ru/#about"
 
 
 # custom style
