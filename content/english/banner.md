@@ -11,7 +11,7 @@ occupations:
 - "Backend Developer"
 - "Hackathon Hacker"
 - "Blockchain enthusiast"
-- "DIY fun"
+- "Electronic DIY fun"
 - "Hi there! 😉"
 
 # slider background image loop
