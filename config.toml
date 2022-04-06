@@ -109,7 +109,7 @@ link = "mailto:publickm@yandex.com"
 
 ################################### English language #####################################
 [Languages.en]
-languageName = "En"
+languageName = "🇬🇧 En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
@@ -170,7 +170,7 @@ weight = 6
 
 ################################### Russian language #####################################
 [Languages.ru]
-languageName = "Ru"
+languageName = "🇷🇺 Ru"
 languageCode = "ru-ru"
 contentDir = "content/russian"
 weight = 2
