@@ -191,7 +191,7 @@ weight = 2
 
 [[Languages.ru.menu.main]]
 name = "Хакатоны"
-pre = "#"
+pre = "/ru#"
 url = "hackathons"
 weight = 3
 
