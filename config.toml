@@ -112,7 +112,7 @@ link = "mailto:publickm@yandex.com"
 languageName = "🇬🇧 En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 home = "Home"
 # copyright
 copyright = "Copyright &copy; 2021 [Kuznetsov Mikhail](https://github.com/kuznetsov-m)"
@@ -173,7 +173,7 @@ weight = 6
 languageName = "🇷🇺 Ru"
 languageCode = "ru-ru"
 contentDir = "content/russian"
-weight = 2
+weight = 1
 home = "Стартовая"
 # copyright
 copyright = "Copyright &copy; 2021 [Кузнецов Михаил](https://github.com/kuznetsov-m)"
