@@ -1,1 +1,0 @@
-# kuznetsov-m-cv-test
