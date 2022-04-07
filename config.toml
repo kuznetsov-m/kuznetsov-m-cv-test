@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://kuznetsov-m.github.io/kuznetsov-m-cv-test"
+baseURL = "https://kuznetsov-m.github.io/kuznetsov-m-cv-test/"
 title = "Kuznetsov Mikhail"
 theme = "somrat"
 # post pagination
@@ -185,23 +185,23 @@ copyright = "Copyright &copy; 2021 [Кузнецов Михаил](https://githu
 # main menu
 [[Languages.ru.menu.main]]
 name = "Начало"
-url = "ru"
+url = "/"
 weight = 1
 
 [[Languages.ru.menu.main]]
 name = "Обо мне"
-pre = "/ru#"
-url = "about"
+pre = "/"
+url = "#about"
 weight = 2
 
 [[Languages.ru.menu.main]]
 name = "Хакатоны"
-pre = "/ru#"
-url = "hackathons"
+pre = "/"
+url = "#hackathons"
 weight = 3
 
 [[Languages.ru.menu.main]]
 name = "Контакты"
-pre = "/ru#"
-url = "contact"
+pre = "/"
+url = "#contact"
 weight = 6
