@@ -44,7 +44,9 @@ skill:
         - name : "C++11"
         - name : "C++14"
         - name : "C++17"
+        - name : "cmake"
         - name : "Qt5"
+        - name : "qmake"
         - name : "gtest"
         - name : "cross-platform dev"
 
