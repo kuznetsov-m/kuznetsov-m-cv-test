@@ -6,7 +6,7 @@ experience:
   title : "HACKATHONS"
   experience_list:
     - name : "Solana Season Hackathon (online)"
-      company : "Track: DeFi (Eastern Europe). 3 place"
+      company : "Track: DeFi Eastern Europe. (3 place)"
       duration : ""
       content : "[Solaris Protocol](https://solarisprotocol.com). Lending/Borrowing protocol that brings Flashloans to Solana blockchain.<br>
       Creation dApp (Rust) and bot (Python) for liquidation of unhealthy obligations in Solaris protocol ([repo](https://github.com/solaris-protocol/solaris-liquidation-bot)). <br>

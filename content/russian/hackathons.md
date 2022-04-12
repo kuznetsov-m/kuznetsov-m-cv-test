@@ -6,7 +6,7 @@ experience:
   title : "ХАКАТОНЫ"
   experience_list:
     - name : "Solana Season Hackathon (online)"
-      company : "Трек: DeFi (Восточная Европа). 2 место"
+      company : "Трек: DeFi Восточная Европа (2 место)"
       duration : ""
       content : "[Solaris Protocol](https://solarisprotocol.com). Разработка протокола быстрых займов.<br>
       Разработка dApp для выкупа займов на rust. Реализация бота поиска займов для ликвидации на python ([repo](https://github.com/solaris-protocol/solaris-liquidation-bot)). <br>
