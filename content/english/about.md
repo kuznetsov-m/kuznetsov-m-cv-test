@@ -33,6 +33,54 @@ experience:
       C++ 11, STL, Qt5. Qt Creator, WireShark <br>
       "
 
+############################### Skill #################################
+skill:
+  enable : true
+  title : "TECHNOLOGIES"
+  skill_list:
+    - name : "C++"
+      tags_list:
+        - name : "STL"
+        - name : "C++11"
+        - name : "C++14"
+        - name : "C++17"
+        - name : "cmake"
+        - name : "Qt5"
+        - name : "qmake"
+        - name : "gtest"
+        - name : "cross-platform dev"
+
+    - name : "Python"
+      tags_list:
+        - name : "Flask"
+        - name : "PyQt5"
+        - name : "threads"
+        - name : "selenium"
+        - name : "numpy"
+        - name : "pandas"
+        - name : "SQLAlchemy"
+        - name : "psycopg2"
+        - name : "sqlite3"
+
+    - name : "Other"
+      tags_list:
+        - name : "SQL"
+        - name : "PostgreSQL"
+        - name : "SQLite"
+        - name : "TCP/IP Networks"
+        - name : "WireShark"
+        - name : "Charles"
+
+    - name : "Blockchain"
+      tags_list:
+        - name : "Solana"
+        - name : "Rust"
+
+    - name : "IoT"
+      tags_list:
+        - name : "Arduino"
+        - name : "ESP8266"
+        - name : "Raspherry Pi"
 
 # custom style
 custom_class: "" 
