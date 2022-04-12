@@ -40,7 +40,7 @@ skill:
   skill_list:
     - name : "C++"
       tags_list:
-        - name : "STL"
+        - name : "Standard Library"
         - name : "C++11"
         - name : "C++14"
         - name : "C++17"
