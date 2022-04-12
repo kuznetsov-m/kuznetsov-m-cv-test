@@ -7,23 +7,31 @@ experience:
   enable : true
   title : "EXPERIENCE"
   experience_list:
-    # experience item loop
     - name : "Playrix"
       company : "playrix.com"
-      duration : "2021"
-      content : "Wildscapes technical team. Technical developer."
-      
-    # experience item loop
+      duration : "2021-2022"
+      content : "C++ Developer, Wildscapes project. Platforms: iOS, Android, Win <br>
+      App development: player progress data, game telemetry. Side SDK's integration. <br>
+      C++ 17, cmake, in-house SDK's, Python 3 (logging, inhouse libs)<br>
+      IDE: MS VS, MS VS Code, Xcode <br>
+      "
+
     - name : "Center for engineering and technology of MIPT"
       company : "cet-mipt.ru"
       duration : "2019-2021"
-      content : "Team Leader of the developing team. Professional desktop application for the design and optimization of gas and oil fields."
-      
-    # experience item loop
+      content : "Team Leader of the developing team. Professional desktop application for the design and optimization of gas and oil fields.
+      Software architecture development, integration QA stage in developing process. Deployment CI (Jenkins) and Jira. Demo presentation.
+      C++ 17, Qt5 (multithreading, charts), qmake/cmake, Qwt, SQLite, Python 3 (threads, logging). <br>
+      IDE: Qt Creator, MS VS, MS VS Code <br>
+      "
+
     - name : "NPP Radiosvyaz"
       company : "krtz.su"
       duration : "2015-2018"
-      content : "Software developer. Satellite communication station software."
+      content : "Satellite telecommunications station software developer (Win, Linux). <br>
+      Development of management modules for TCP/IP telecommunications equipment. Management via ARP, Telnet, SNMP, and other proprietary protocols. Legacy code updates. <br>
+      C++ 11, STL, Qt5. Qt Creator, WireShark <br>
+      "
 
 
 # custom style

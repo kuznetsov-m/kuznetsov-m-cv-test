@@ -20,7 +20,7 @@ experience:
       company : "cet-mipt.ru"
       duration : "2019-2021"
       content : "Team Leader в команде разработки профессионального desktop-приложения для проектирования и оптимизации нефтегазовых месторождений. <br>
-      Проектирование архитектуры, разработка модулей, ораганизация этапа QA, настройка CI и Jira, проведение Demo. <br>
+      Проектирование архитектуры, разработка модулей, организация этапа QA, настройка CI и Jira, проведение Demo. <br>
       C++ 17, Qt5 (multithreading, charts), qmake/cmake, Qwt, SQLite, Python 3 (threads, logging). <br>
       IDE: Qt Creator, MS VS, MS VS Code <br>
       "
@@ -88,5 +88,5 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-Предпочитаю backend направление разработки. <br>
+Предпочитаю desktop/backend направление разработки. <br>
 Freelance python проекты.
